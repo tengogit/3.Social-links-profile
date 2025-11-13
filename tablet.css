@@ -1,0 +1,63 @@
+@media(width>768px) {
+
+    body {
+
+        overflow-x: hidden;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    main {
+        width: 384px;
+        height: 611px;
+        margin: 206.5px 192.5px 206.5px 192.5px;
+
+    }
+
+    img {
+        margin: 40px 148px 0px 148px;
+
+    }
+
+    div {
+        width: 304px;
+        height: 61px;
+        margin: 24px 40px 0px 40px;
+
+
+    }
+
+    .bio {
+        width: 304px;
+        height: 21px;
+    }
+
+    section {
+        width: 305px;
+        height: 45px;
+    }
+
+    .links {
+        width: 304px;
+        height: 289px;
+        margin: 24px 40px 40px 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
