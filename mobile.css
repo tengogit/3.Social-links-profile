@@ -13,9 +13,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: auto;
     background-color: #141414;
     user-select: none;
+    overflow-x: hidden;
 
 }
 
@@ -23,7 +24,7 @@ main {
     width: 327px;
     height: 579px;
     background-color: #1f1f1f;
-    margin: 116.5px 24px 116.5px 24px;
+    margin: 95px 24px 0px 24px;
     border-radius: 12px;
 
 
